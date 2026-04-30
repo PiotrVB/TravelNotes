@@ -8,22 +8,21 @@ Aplikacja mobilna na Androida służąca do zapisywania miejsc, które chcesz od
 
 | Logowanie | Strona główna | Mapa |
 |:---:|:---:|:---:|
-| ![Login](App-look/login.png) | ![Home](app-look/Home.png) | ![Maps](app-look/maps.png) |
+| ![Login](App-look/login.png) | ![Home](App-look/Home.png) | ![Maps](App-look/maps.png) |
 
 | Ciekawostki | Kontakt | Ustawienia |
 |:---:|:---:|:---:|
-| ![Trivia](app-look/trivia.png) | ![Contact](app-look/Contact.png) | ![Settings](app-look/settings.png) |
+| ![Trivia](App-look/trivia.png) | ![Contact](App-look/Contact.png) | ![Settings](App-look/settings.png) |
 
 ### 🌑 Tryb Monochromatyczny (Wysoki Kontrast)
 Aplikacja posiada funkcję zmiany motywu na czarno-biały (czarne tło, białe napisy), dostępną w ustawieniach.
 
 | Menu boczne | Ustawienia (Ciemne) |
 |:---:|:---:|
-| ![Hamburger](app-look/hamburger.png) | ![Settings Black](app-look/settings_black.png) |
+| ![Hamburger](App-look/hamburger.png) | ![Settings Black](App-look/settings_black.png) |
 
 ### 🎥 Nagranie z działania aplikacji
 https://github.com/user-attachments/assets/2026-04-30%2012-40-46.mp4
-*(Uwaga: Powyższy link jest przykładowy, w pliku lokalnym odwołanie to: `app-look/2026-04-30 12-40-46.mp4`)*
 
 ---
 
