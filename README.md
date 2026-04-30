@@ -22,7 +22,9 @@ Aplikacja posiada funkcję zmiany motywu na czarno-biały (czarne tło, białe n
 | ![Hamburger](App-look/hamburger.png) | ![Settings Black](App-look/settings_black.png) |
 
 ### 🎥 Nagranie z działania aplikacji
-![Nagranie](App-look/viedo.mp4)
+<video src="https://github.com/PiotrVB/App-look/viedo.mp4" controls="controls" style="max-width: 100%;">
+  Twoja przeglądarka nie obsługuje odtwarzacza wideo.
+</video>
 
 ---
 
