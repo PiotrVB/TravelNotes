@@ -8,7 +8,7 @@ Aplikacja mobilna na Androida służąca do zapisywania miejsc, które chcesz od
 
 | Logowanie | Strona główna | Mapa |
 |:---:|:---:|:---:|
-| ![Login](app-look/login.png) | ![Home](app-look/Home.png) | ![Maps](app-look/maps.png) |
+| ![Login](App-look/login.png) | ![Home](app-look/Home.png) | ![Maps](app-look/maps.png) |
 
 | Ciekawostki | Kontakt | Ustawienia |
 |:---:|:---:|:---:|
